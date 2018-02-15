@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750759803156",
+    "firebase_url": "https://testelogin-f4328.firebaseio.com",
+    "project_id": "testelogin-f4328",
+    "storage_bucket": "testelogin-f4328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750759803156:android:d983b93cdb134c36",
+        "android_client_info": {
+          "package_name": "moura.silva.com.testnewlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750759803156-d0jeb6umsgfgvbbvsg0a33siu8e1g4f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moura.silva.com.testnewlogin",
+            "certificate_hash": "db4ae340f485749d0bcf29bb6939ab16d35621e5"
+          }
+        },
+        {
+          "client_id": "750759803156-chg9ulvrdopqqgjqq4i7b466jqt7rjgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPU29gUJ04527qiFCMJUGIs52cv-CkP-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750759803156-chg9ulvrdopqqgjqq4i7b466jqt7rjgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
